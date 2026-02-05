@@ -60,3 +60,32 @@ body {
     align-items: center;
     padding: 15px;
 }
+
+.Project-card img{
+    height: 180px;
+    object-fit: cover;
+    width: 100%;
+}
+
+
+
+.Contact section .map-container{
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.map-container iframe {
+    width: 150%;
+    height: 200px;
+    border: none;
+    border-radius: 10px;
+}
+
+.footer-section{
+    background-color: #1e40af;
+    color: #ffffff;
+    padding: 20px 0;
+
+}
